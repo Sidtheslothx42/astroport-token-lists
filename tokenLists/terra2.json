@@ -1,1 +1,19 @@
-PLACEHOLDER_WILL_REPLACE
+[
+  {
+    "protocol": "Astroport",
+    "symbol": "ASTRO",
+    "token": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995",
+    "icon": "https://raw.githubusercontent.com/astroport-fi/astroport-token-lists/main/img/astro.svg",
+    "decimals": 6,
+    "coingeckoId": "astroport-fi",
+    "originDenom": "factory/neutron1ffus553eet978k024lmssw0czsxwr97mggyv85lpcsdkft8v9ufsz3sa07/astro",
+    "originChainId": "neutron-1"
+  },
+  {
+    "protocol": "Deep State Luna",
+    "symbol": "DEEPSTATE",
+    "token": "terra13lc4xzfmzfgds5zux5pp3zuqf665akrdzwlumnjykrt850n96lvsz5y0wg",
+    "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/deepstate.png",
+    "decimals": 6
+  }
+]
